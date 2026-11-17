@@ -1,3 +1,3 @@
 # 2026-11-17-git
 
-<https://github.com/fifoooooo/2026-11-17-git.git>
+git branches: <https://ubc-dsci.github.io/reproducible-and-trustworthy-workflows-for-data-science/lectures/git-branches.html>
